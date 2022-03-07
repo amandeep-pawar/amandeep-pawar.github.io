@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/css/main.1a8a0596.css",
+    "main.js": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/js/main.79127995.js",
+    "static/js/787.202b8111.chunk.js": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/js/787.202b8111.chunk.js",
+    "index.html": "/codewithamandeepsingh/codewithamandeepsingh.github.io/index.html",
+    "main.1a8a0596.css.map": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/css/main.1a8a0596.css.map",
+    "main.79127995.js.map": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/js/main.79127995.js.map",
+    "787.202b8111.chunk.js.map": "/codewithamandeepsingh/codewithamandeepsingh.github.io/static/js/787.202b8111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.79127995.js"
+  ]
+}
