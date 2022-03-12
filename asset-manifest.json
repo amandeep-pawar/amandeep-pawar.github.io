@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/codewithamandeepsingh/amandeep-pawar.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.ac476692.js",
+    "main.css": "/codewithamandeepsingh/amandeep-pawar.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.0dd79401.js",
     "static/js/787.1ed0c42c.chunk.js": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/codewithamandeepsingh/amandeep-pawar.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/codewithamandeepsingh/amandeep-pawar.github.io/index.html",
-    "main.073c9b0a.css.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/css/main.073c9b0a.css.map",
-    "main.ac476692.js.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.ac476692.js.map",
+    "main.0dd79401.js.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.0dd79401.js.map",
     "787.1ed0c42c.chunk.js.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ac476692.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0dd79401.js"
   ]
 }
