@@ -1,0 +1,7 @@
+.footer{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    image-resolution: 40px;
+}
