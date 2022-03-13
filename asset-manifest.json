@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/codewithamandeepsingh/amandeep-pawar.github.io/static/css/main.31d6cfe0.css",
-    "main.js": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.0dd79401.js",
-    "static/js/787.1ed0c42c.chunk.js": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/codewithamandeepsingh/amandeep-pawar.github.io/index.html",
-    "main.0dd79401.js.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/main.0dd79401.js.map",
-    "787.1ed0c42c.chunk.js.map": "/codewithamandeepsingh/amandeep-pawar.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/amandeep-pawar.github.io/static/css/main.d390ecb0.css",
+    "main.js": "/amandeep-pawar.github.io/static/js/main.e7d3f796.js",
+    "static/js/787.202b8111.chunk.js": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js",
+    "static/media/Students-amico.png": "/amandeep-pawar.github.io/static/media/Students-amico.9bc1ccba5ed47d3dd124.png",
+    "index.html": "/amandeep-pawar.github.io/index.html",
+    "main.d390ecb0.css.map": "/amandeep-pawar.github.io/static/css/main.d390ecb0.css.map",
+    "main.e7d3f796.js.map": "/amandeep-pawar.github.io/static/js/main.e7d3f796.js.map",
+    "787.202b8111.chunk.js.map": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.0dd79401.js"
+    "static/css/main.d390ecb0.css",
+    "static/js/main.e7d3f796.js"
   ]
 }
