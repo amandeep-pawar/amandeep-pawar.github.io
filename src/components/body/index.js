@@ -16,6 +16,7 @@ function Body() {
       <section id='skills'><Skills/></section> 
       <section id='work'><Work/></section> 
       <section  id='contact'><Contact/></section> 
+      
     
     </div>
   )
