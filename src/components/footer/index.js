@@ -3,7 +3,7 @@ import './footer.css';
 
 function Footer() {
   return (
-    <div className='footer'><p> copyright by Amandeep Singh</p></div>
+    <div className='footer'><p> copyright by Amandeep Singh pawar</p></div>
   )
 }
 
