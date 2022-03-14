@@ -1,6 +1,7 @@
 {
   "homepage": "http://codewithamandeepsingh.github.io/amandeep-pawar.github.io",
   "name": "porfolio",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
