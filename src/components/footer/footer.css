@@ -1,7 +1,15 @@
 .footer{
     color: cadetblue;
     display: flex;
+ background-color: bisque;
     justify-content: center;
     align-items: center;
+  
     image-resolution: 40px;
+}
+
+.copy-right{
+    margin-top: 4px;
+justify-content: center;
+align-items: center;
 }

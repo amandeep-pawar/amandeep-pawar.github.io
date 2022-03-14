@@ -9,7 +9,24 @@ function About() {
         <div className='about-top'>
             <div className='about-info'>
 
-              Hi! Amandeep singh <br/><span className='info-name'>Psawar.</span>
+              Hi! meet with Amandeep singh <br/><span className='info-name'>Pawar.</span>
+                 <b> coding makes me 😀!</b>
+                  <div className='quote'>
+                    while(no-success)<br/>
+                      tryAgian();<br/>
+                      
+                      if(death){
+                        
+                    <p>break;</p>
+                    
+                      }
+                      <div className='goal'>
+                        <b> Preparing for GATE exam....</b>
+                          <marquee> .............update is going on - Portfolio...............</marquee>
+                      </div>
+                       
+
+                 </div>
             </div>
                  <div className='about-photo'>
               <img className='picture' src={require("../../../assests/Students-amico.png")} alt='aman.png'/>
