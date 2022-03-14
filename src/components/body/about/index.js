@@ -22,7 +22,7 @@ function About() {
                       }
                       <div className='goal'>
                         <b> Preparing for GATE exam....</b>
-                          <marquee> .............update is going on - Portfolio...............</marquee>
+                          <marquee> .............Working on update - Portfolio...............</marquee>
                       </div>
                        
 

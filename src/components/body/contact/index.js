@@ -16,7 +16,7 @@ function Contact() {
                     </div>
                     <div className="shadow-lg p-3 mb-5 bg-body rounded">
                     <div className='download'>
-                      <a download href='../../../assests/documents/Resumeto_Amandeep.pdf'>
+                      <a download href="../../../assests/document/AmandeepResume.pdf">
                         <i className='fi-rr-cloud-download download-icon'/>Download Resume
                           
                      
