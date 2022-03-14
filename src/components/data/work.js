@@ -2,7 +2,8 @@ export const WorkData= [
     {
         company: "Infosys",
         status:"Joined",
-        description: "Software Engineer",
+        title:"Software Engineer",
+        description: "I am a Full Stack Developer working as a Web Application developer using Mircoservices Technology ",
         dateJoining: "13-Sep-2021",
         dateEnd: "present",
         CompanyLogo: require("../../assests/company logo/infosys.png"),
@@ -12,7 +13,8 @@ export const WorkData= [
     {
         company: "Techahead",
         status:"Not Joined",
-        description: "Associate Software Engineer",
+        title:"Associate Software Engineer",
+        description: "Empty...........Not Joined Organisation...",
         dateJoining: "21-Sep-2021",
         dateEnd: "present",
         CompanyLogo: require("../../assests/company logo/techahead.jfif"),
@@ -21,8 +23,9 @@ export const WorkData= [
 
     {
         company: "Cognizance IIT'R",
+        title:"Internship",
         status: "Joined",
-        description: "Campus Ambassador",
+        description: "Worked as a Team Leader as well as I learned lots of technology with that extra curriculum activities at IIT Roorkee. Thanks Indian Institute of Technology for felicitated with Certificates! ",
         dateJoining: "01-Mar-2021",
         dateEnd: "present",
         CompanyLogo: require("../../assests/company logo/cognizance.png"),
@@ -32,7 +35,8 @@ export const WorkData= [
     {
         company: "Elan & ηVision IIT'H",
         status: "Joined",
-        description: "Campus Ambassador",
+        title:"Intenship",
+        description: "From that internship I faced some Challenging task like coding problems and over heated mind problems also worked for Graphics Designing tasks. Thanks Indian Institute of Technology for awarded with certificates , merchandise and party coupons! ",
         dateJoining: "01-Jan-2021",
         dateEnd: "present",
         CompanyLogo:require("../../assests/company logo/elan & nvision.jfif"),

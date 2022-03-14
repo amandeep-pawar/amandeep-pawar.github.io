@@ -7,9 +7,20 @@
     align-items: center;
 }
 
+.goal{
+    border-radius: 10px;
+    color: tomato;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700 ;
+    background-color: blanchedalmond;
+}
+
 .picture{
-    height: 420px;
-    width: 420px;
+    height: 250px;
+    width: 210px;
+    margin-bottom: 10px;
+    border-radius: 50%;
 }
 
 .about-info{
@@ -29,8 +40,9 @@
     }
     
     .picture{
+        margin: 5px;
 
-        height: 380px;
+        height: 210px;
     
     }
 

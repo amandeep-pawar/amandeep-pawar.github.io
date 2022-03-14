@@ -12,3 +12,9 @@
     align-items: center;
     margin: 24px 0px;
 }
+
+.description{
+    background-color: lightpink;
+    border-radius: 7px;
+    margin-right: 6px;
+}

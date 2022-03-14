@@ -29,7 +29,7 @@ function About() {
                  </div>
             </div>
                  <div className='about-photo'>
-              <img className='picture' src={require("../../../assests/Students-amico.png")} alt='aman.png'/>
+              <img className='picture' src={require("../../../assests/amandeep.jpeg")} alt='aman.png'/>
              
                  </div>
               
