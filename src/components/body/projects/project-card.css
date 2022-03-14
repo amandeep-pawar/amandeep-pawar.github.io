@@ -7,7 +7,12 @@
 
 .project-photo{
 
-    width: 40px;
+    width: 320px;
+    shape-outside: -webkit-linear-gradient();
+ border-radius: 10px;
+border-image: fill;
+border-color: black;
+border-style: double;
 }
 
 .project-info{
