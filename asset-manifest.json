@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/amandeep-pawar.github.io/static/css/main.d390ecb0.css",
-    "main.js": "/amandeep-pawar.github.io/static/js/main.e3f326df.js",
+    "main.css": "/amandeep-pawar.github.io/static/css/main.a8d669b4.css",
+    "main.js": "/amandeep-pawar.github.io/static/js/main.788e2126.js",
     "static/js/787.202b8111.chunk.js": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js",
     "static/media/Students-amico.png": "/amandeep-pawar.github.io/static/media/Students-amico.9bc1ccba5ed47d3dd124.png",
+    "static/media/instagram.png": "/amandeep-pawar.github.io/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/github .png": "/amandeep-pawar.github.io/static/media/github .553c66159c5672f25df6.png",
+    "static/media/linkedin.png": "/amandeep-pawar.github.io/static/media/linkedin.6ad6a2a824e3d0059faa.png",
+    "static/media/facebook .png": "/amandeep-pawar.github.io/static/media/facebook .01a470d813915c298403.png",
+    "static/media/youtube.png": "/amandeep-pawar.github.io/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/elan & nvision.jfif": "/amandeep-pawar.github.io/static/media/elan & nvision.2e571a6f48393d3607be.jfif",
+    "static/media/techahead.jfif": "/amandeep-pawar.github.io/static/media/techahead.07859c237295d11ea395.jfif",
     "index.html": "/amandeep-pawar.github.io/index.html",
-    "main.d390ecb0.css.map": "/amandeep-pawar.github.io/static/css/main.d390ecb0.css.map",
-    "main.e3f326df.js.map": "/amandeep-pawar.github.io/static/js/main.e3f326df.js.map",
+    "main.a8d669b4.css.map": "/amandeep-pawar.github.io/static/css/main.a8d669b4.css.map",
+    "main.788e2126.js.map": "/amandeep-pawar.github.io/static/js/main.788e2126.js.map",
     "787.202b8111.chunk.js.map": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d390ecb0.css",
-    "static/js/main.e3f326df.js"
+    "static/css/main.a8d669b4.css",
+    "static/js/main.788e2126.js"
   ]
 }
