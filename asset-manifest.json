@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce03b59c.css",
-    "main.js": "/static/js/main.8fe6b0de.js",
-    "static/js/787.202b8111.chunk.js": "/static/js/787.202b8111.chunk.js",
-    "static/media/rubik cube.jpg": "/static/media/rubik cube.99a1b5eab3baae4a1b9a.jpg",
-    "static/media/amandeep.jpeg": "/static/media/amandeep.57812c07834252508a9d.jpeg",
-    "static/media/instagram.png": "/static/media/instagram.79535458a8a6d88f81d4.png",
-    "static/media/github .png": "/static/media/github .553c66159c5672f25df6.png",
-    "static/media/linkedin.png": "/static/media/linkedin.6ad6a2a824e3d0059faa.png",
-    "static/media/facebook .png": "/static/media/facebook .01a470d813915c298403.png",
-    "static/media/smart home.png": "/static/media/smart home.f6ae6f5e11dd0cd9ffd0.png",
-    "static/media/youtube.png": "/static/media/youtube.b4f2b64af1b614ce26dc.png",
-    "static/media/elan & nvision.jfif": "/static/media/elan & nvision.2e571a6f48393d3607be.jfif",
-    "static/media/techahead.jfif": "/static/media/techahead.07859c237295d11ea395.jfif",
-    "index.html": "/index.html",
-    "main.ce03b59c.css.map": "/static/css/main.ce03b59c.css.map",
-    "main.8fe6b0de.js.map": "/static/js/main.8fe6b0de.js.map",
-    "787.202b8111.chunk.js.map": "/static/js/787.202b8111.chunk.js.map"
+    "main.css": "/amandeep-pawar.github.io/static/css/main.ce03b59c.css",
+    "main.js": "/amandeep-pawar.github.io/static/js/main.a4c63991.js",
+    "static/js/787.202b8111.chunk.js": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js",
+    "static/media/rubik cube.jpg": "/amandeep-pawar.github.io/static/media/rubik cube.99a1b5eab3baae4a1b9a.jpg",
+    "static/media/amandeep.jpeg": "/amandeep-pawar.github.io/static/media/amandeep.57812c07834252508a9d.jpeg",
+    "static/media/instagram.png": "/amandeep-pawar.github.io/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/github .png": "/amandeep-pawar.github.io/static/media/github .553c66159c5672f25df6.png",
+    "static/media/linkedin.png": "/amandeep-pawar.github.io/static/media/linkedin.6ad6a2a824e3d0059faa.png",
+    "static/media/facebook .png": "/amandeep-pawar.github.io/static/media/facebook .01a470d813915c298403.png",
+    "static/media/smart home.png": "/amandeep-pawar.github.io/static/media/smart home.f6ae6f5e11dd0cd9ffd0.png",
+    "static/media/youtube.png": "/amandeep-pawar.github.io/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "static/media/elan & nvision.jfif": "/amandeep-pawar.github.io/static/media/elan & nvision.2e571a6f48393d3607be.jfif",
+    "static/media/techahead.jfif": "/amandeep-pawar.github.io/static/media/techahead.07859c237295d11ea395.jfif",
+    "index.html": "/amandeep-pawar.github.io/index.html",
+    "main.ce03b59c.css.map": "/amandeep-pawar.github.io/static/css/main.ce03b59c.css.map",
+    "main.a4c63991.js.map": "/amandeep-pawar.github.io/static/js/main.a4c63991.js.map",
+    "787.202b8111.chunk.js.map": "/amandeep-pawar.github.io/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce03b59c.css",
-    "static/js/main.8fe6b0de.js"
+    "static/js/main.a4c63991.js"
   ]
 }
